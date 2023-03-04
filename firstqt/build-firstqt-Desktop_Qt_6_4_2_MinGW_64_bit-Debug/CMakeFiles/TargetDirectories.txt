@@ -1,0 +1,9 @@
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/firstqt.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/firstqt_autogen_timestamp_deps.dir
+C:/firstqt/build-firstqt-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/firstqt_autogen.dir
